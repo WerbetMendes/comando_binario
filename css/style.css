@@ -3,8 +3,17 @@
     justify-content: space-between;
 }
 
-.footer p{
+.footer {
+    height: 200px;
+    background-color: black;
+    
+}
+
+.footer p {
+    text-align: center;
     color: white;
 }
+
+
 
 
