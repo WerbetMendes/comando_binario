@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer p{
+    color: white;
+}
+
+
