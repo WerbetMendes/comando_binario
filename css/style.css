@@ -1,3 +1,12 @@
+/* PALETA DE CORES */
+.root {
+--black-coffee: #32292fff;
+--independence: #575366ff;
+--glaucous: #6e7dabff;
+--floral-white: #fffcf2ff;
+--sizzling-red: #ff2c55ff;
+}
+
 .menu {
     display: flex;
     justify-content: space-between;
