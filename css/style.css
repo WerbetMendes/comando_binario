@@ -7,6 +7,10 @@
 --sizzling-red: #ff2c55ff;
 }
 
+body {
+    
+}
+
 .menu {
     display: flex;
     justify-content: space-between;
