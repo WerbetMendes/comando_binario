@@ -7,8 +7,34 @@
 --sizzling-red: #ff2c55ff;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400&display=swap');
+
 body {
-    
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+.cover_container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgb(87,83,102);
+    background-image: linear-gradient(to bottom right,rgba(87,83,102,1) 0%, rgba(107,120,163,1) 14%, rgba(110,125,171,1) 77%, rgba(50,41,47,1) 97%);;
+}
+
+.navbar_container {
+    display: flex;
+    height: 68px;
+
+}
+
+.navbar_menu a{
+    color: white;
+    font-size: 20px;
+    padding: 0px 15px;
+    text-decoration: none;
 }
 
 .menu {
